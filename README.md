@@ -1,6 +1,6 @@
 ### Hi there I'm Hugo 👋
 
-<!--
+
 Current Location: In between Hong Kong, London and San Francisco 
 
 - 🔭 I’m currently working on plant disease identification with a really poor dataset ... 
@@ -9,5 +9,5 @@ Current Location: In between Hong Kong, London and San Francisco
 - 💬 Ask me about: anything related
 - 📫 How to reach me: https://www.linkedin.com/in/hugosiu/ 
 - ⚡ Fun fact: Started running recently :) Connect with me on Linkedin!
--->
+
 
